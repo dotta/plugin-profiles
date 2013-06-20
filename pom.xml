@@ -74,7 +74,7 @@
     <weaving.hook.plugin.version>Specify a profile!</weaving.hook.plugin.version>
 
     <!-- some default values, can be overwritten by profiles -->
-    <scala.version>2.10.1</scala.version>
+    <scala.version>Specify a profile!</scala.version>
     <version.tag>local</version.tag>
     <repo.scala-ide>Specify a profile!</repo.scala-ide> <!-- repository is different for each profile -->
 
@@ -128,7 +128,7 @@
     <profile>
       <id>scala-2.10.x</id>
       <properties>
-        <scala.version>2.10.1</scala.version>
+        <scala.version>2.10.2</scala.version>
         <version.suffix>2_10</version.suffix>
         <scala.version.short>2.10</scala.version.short>
         <ecosystem-scala-version>210</ecosystem-scala-version>
