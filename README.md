@@ -3,8 +3,9 @@
 Inherit from this pom file when creating Scala IDE plugins. It provides:
 
 * profiles for Scala versions
-    * scala-2.10.x
     * scala-2.9.x
+    * scala-2.10.x
+    * scala-2.11.x
 * profiles for Scala IDE releases
   * scala-ide-stable (stable releases)
   * scala-ide-dev (milestones)
